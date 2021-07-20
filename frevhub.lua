@@ -1,6 +1,6 @@
 if game.PlaceId == 155615604 then
     local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-    local Window = Library.CreateLib("Prison Life", "Sentinel")
+    local Window = Library.CreateLib("Prison Life | FrevHub", "Sentinel")
  
     -- MAIN
     local Main = Window:NewTab("Main")
@@ -45,7 +45,7 @@ if game.PlaceId == 155615604 then
     end)
 elseif game.PlaceId == 3956818381 then
     local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-    local Window = Library.CreateLib("Ninja Legends", "Sentinel")
+    local Window = Library.CreateLib("Ninja Legends | FrevHub", "Sentinel")
  
     -- MAIN
     local Main = Window:NewTab("Main")
@@ -114,7 +114,7 @@ elseif game.PlaceId == 3956818381 then
     end)
 elseif game.PlaceId == 286090429 then
     local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-    local Window = Library.CreateLib("Arsenal", "Sentinel")
+    local Window = Library.CreateLib("Arsenal | FrevHub", "Sentinel")
 
     local Player = Window:NewTab("Player")
     local PlayerSection = Player:NewSection("Player")
@@ -128,7 +128,7 @@ elseif game.PlaceId == 286090429 then
     end)
 elseif game.PlaceId == 2809202155 then
     local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-    local Window = Library.CreateLib("YBA", "Sentinel")
+    local Window = Library.CreateLib("YBA | FrevHub", "Sentinel")
 
     local Player = Window:NewTab("Player")
     local PlayerSection = Player:NewSection("Player")
@@ -142,7 +142,7 @@ elseif game.PlaceId == 2809202155 then
     end)
 elseif game.PlaceId == 292439477 then
     local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-    local Window = Library.CreateLib("Phantom Forces", "Sentinel")
+    local Window = Library.CreateLib("Phantom Forces | FrevHub", "Sentinel")
 
     local Player = Window:NewTab("Player")
     local PlayerSection = Player:NewSection("Player")
@@ -156,7 +156,7 @@ elseif game.PlaceId == 292439477 then
     end)
 elseif game.PlaceId == 1224212277 then
     local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-    local Window = Library.CreateLib("Mad City", "Sentinel")
+    local Window = Library.CreateLib("Mad City | FrevHub", "Sentinel")
 
     local Player = Window:NewTab("Player")
     local PlayerSection = Player:NewSection("Player")
@@ -170,7 +170,7 @@ elseif game.PlaceId == 1224212277 then
     end)
 elseif game.PlaceId == 6872265039 then
     local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-    local Window = Library.CreateLib("Bedwars", "Sentinel")
+    local Window = Library.CreateLib("Bedwars | FrevHub", "Sentinel")
 
     local Player = Window:NewTab("Player")
     local PlayerSection = Player:NewSection("Player")
@@ -184,7 +184,7 @@ elseif game.PlaceId == 6872265039 then
     end)
 elseif game.PlaceId == 606849621 then
     local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-    local Window = Library.CreateLib("Jailbreak", "Sentinel")
+    local Window = Library.CreateLib("Jailbreak | FrevHub", "Sentinel")
 
     local Player = Window:NewTab("Player")
     local PlayerSection = Player:NewSection("Player")
@@ -198,7 +198,7 @@ elseif game.PlaceId == 606849621 then
     end)
 elseif game.PlaceId == 3260590327 then
     local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-    local Window = Library.CreateLib("Tower Defense Simulator", "Sentinel")
+    local Window = Library.CreateLib("Tower Defense Simulator | FrevHub", "Sentinel")
 
     local Player = Window:NewTab("Player")
     local PlayerSection = Player:NewSection("Player")
@@ -212,7 +212,7 @@ elseif game.PlaceId == 3260590327 then
     end)
 elseif game.PlaceId == 6766156863 then
     local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-    local Window = Library.CreateLib("Strongman Simulator", "Sentinel")
+    local Window = Library.CreateLib("Strongman Simulator | FrevHub", "Sentinel")
 
     local Player = Window:NewTab("Player")
     local PlayerSection = Player:NewSection("Player")
@@ -226,7 +226,7 @@ elseif game.PlaceId == 6766156863 then
     end)
 elseif game.PlaceId == 189707 then
     local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-    local Window = Library.CreateLib("Natural Disaster Survival", "Sentinel")
+    local Window = Library.CreateLib("Natural Disaster Survival | FrevHub", "Sentinel")
 
     local Player = Window:NewTab("Player")
     local PlayerSection = Player:NewSection("Player")
