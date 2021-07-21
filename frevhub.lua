@@ -111,6 +111,16 @@ elseif game.PlaceId == 3956818381 then
             Event:FireServer(A_1, A_2)
             wait(0.5)
         end
+    local Player = Window:NewTab("Player")
+    local PlayerSection = Player:NewSection("Player")
+ 
+    PlayerSection:NewSlider("Walkspeed", "Changes the walkspeed", 250, 16, function(v)
+        game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = v
+    end)
+ 
+    PlayerSection:NewSlider("Jumppower", "Changes the jumppower", 250, 50, function(v)
+        game.Players.LocalPlayer.Character.Humanoid.JumpPower = v
+    end)
     end)
 elseif game.PlaceId == 286090429 then
     local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
